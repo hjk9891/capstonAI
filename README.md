@@ -15,3 +15,5 @@ Microsoft Face API를 사용하였다.
 # 4. 결과 값
 
 # 5. 프로젝트 전체의 흐름
+<img width="388" alt="스크린샷 2021-05-23 오후 5 48 50" src="https://user-images.githubusercontent.com/37397536/119254076-45597300-bbef-11eb-8b4a-7cbd75d8b60c.png">
+
